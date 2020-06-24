@@ -1,0 +1,11 @@
+/* Style the navigation menu */
+.navbar {
+    width: 100%;
+    overflow: auto;
+}
+
+/* Navigation links */
+.navbar .item {
+    float: left;
+    text-align: left; /* If you want the text to be centered */
+}
